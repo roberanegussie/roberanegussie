@@ -7,7 +7,7 @@ import styles from "./styles.module.css"
 function Work(){
     return (
         <section id="work">
-            <Heading index="02" heading="Some Things I've Built"/>
+            <Heading index="" heading="Some Things I've Built"/>
             <div className={styles.container}>
 				{constant.projects.map((project, index) =>
 					index % 2 === 0 ? (

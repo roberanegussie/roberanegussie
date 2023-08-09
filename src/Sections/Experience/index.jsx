@@ -8,7 +8,7 @@ function Experience(){
     const[currentIndex,setCurrentIndex]=useState(0);
     return(
         <section id="experience">
-            <Heading index="02" heading="Where I've Worked"/>
+            <Heading index="" heading="Where I've Worked"/>
             <div className={styles.container}>
                 <div className={styles.left}>
                 {constant.experiences.map((experience, index) => (

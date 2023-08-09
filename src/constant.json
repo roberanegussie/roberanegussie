@@ -17,5 +17,23 @@
             "github": "https://github.com/roberanegussie/Cinema-Ticket-Booking"
             
         }
+    ],
+    "experiences": [
+        {
+            "title":"Technical - IT Junior IS Officer I",
+            "link":"https://www.combanketh.et/",
+            "company":"Commercial Bank of Ethiopia",
+            "desc":["Working on the development of Credit Scoring Project Phase II. It allows agents and merchants to gain Micro Loan based on their loan limit determined by their credit score.", 
+            "Tech stack Java, MySQL, MSSQL Server, OpenShift"],
+            "duration": "June 2023 - Present"
+        },
+        {
+            "title":"Technical - IT IS Trainee",
+            "link":"https://www.combanketh.et/",
+            "company":"Commercial Bank of Ethiopia",
+            "desc":["Worked on the development of Credit Scoring Project Phase I. It allows customers to gain Micro Loan based on their loan limit determined by their credit score.", 
+            "Tech stack Java, MySQL, MSSQL Server, OpenShift"],
+            "duration": "December 2022 - June 2023"
+        }
     ]
 }

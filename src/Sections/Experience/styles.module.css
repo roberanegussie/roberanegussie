@@ -1,14 +1,14 @@
 .container{
     display: flex;
     justify-content: center;
-    height: calc(100vh - 200px);
+    height: calc(100vh - 400px);
     padding-top: 80px;
 }
 
 .left {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 400px;
 }
 
 .tab {

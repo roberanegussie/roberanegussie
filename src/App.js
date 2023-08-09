@@ -6,6 +6,7 @@ import Footer from './components/footer';
 import Home from './Sections/Home';
 import About from './Sections/About';
 import Work from './Sections/Work';
+import Experience from './Sections/Experience';
 import Contact from './Sections/Contact';
 function App() {
   return (
@@ -14,8 +15,8 @@ function App() {
       <div className="app_section_container">
         <Home />
         <About />
-        
         <Work />
+        <Experience/>
         <Contact />
       </div>
       <ContactBar />

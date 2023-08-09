@@ -50,10 +50,7 @@ function ContactBar() {
 				<a href="https://github.com/roberanegussie" target="_blank" className={styles.icon} >
 					<GitHubIcon  />
 				</a>
-				<a href="/" target="_blank" className={styles.icon} >
-					<InstagramIcon  />
-				</a>
-				<a href="https://twitter.com/roberanegussie?s=09" target="_blank" className={styles.icon} >
+				<a href="https://twitter.com/robera_n" target="_blank" className={styles.icon} >
 					<TwitterIcon  />
 				</a>
 				<div className={styles.line}></div>
