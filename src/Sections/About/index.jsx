@@ -54,7 +54,7 @@ function About() {
 						some of many strengths of mine.
 						I am currently working at Commercial Bank of Ethiopia in the 
 						Infrastructure Support department.
-						I am also an enthusiat for open source software participating in 
+						I am also an enthusiat for open source software having participated in 
 						the GirlScript Summer of Code India 2023.
 						
 					</p>
