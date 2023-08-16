@@ -23,7 +23,8 @@
             "title":"Technical - IT Junior IS Officer I",
             "link":"https://www.combanketh.et/",
             "company":"Commercial Bank of Ethiopia",
-            "desc":["Working on the development of Credit Scoring Project Phase II. It allows agents and merchants to gain Micro Loan based on their loan limit determined by their credit score.", 
+            "desc":["Configured ETL package on Microsoft SQL Server to extract data from source database and perform batch processing on Credit Scoring application servers", 
+            "Developed an AES and DES encryption/decryption program in Java to encrypt PIN number coming from Mobile Money users",
             "Tech stack Java, MySQL, MSSQL Server, OpenShift"],
             "duration": "June 2023 - Present"
         },
@@ -31,8 +32,8 @@
             "title":"Technical - IT IS Trainee",
             "link":"https://www.combanketh.et/",
             "company":"Commercial Bank of Ethiopia",
-            "desc":["Worked on the development of Credit Scoring Project Phase I. It allows customers to gain Micro Loan based on their loan limit determined by their credit score.", 
-            "Tech stack Java, MySQL, MSSQL Server, OpenShift"],
+            "desc":["Monitored status of Credit Scoring MySQL data source coming from data warehouse.", 
+            "Tested API endpoints using Postman to verify availability and response of endpoints."],
             "duration": "December 2022 - June 2023"
         }
     ]
