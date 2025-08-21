@@ -2,7 +2,6 @@
 
 * 🎓 I'm a BSc Computer Science graduate from Addis Ababa University
 * 🔭 Contributor in GSSoC 2023
-* 🌱 Currently learning Azure
 * 🤝 Open to collaborate in Full Stack or ML projects
 
 ### Socials:
